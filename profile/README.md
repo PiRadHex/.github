@@ -1,6 +1,6 @@
-# PiRadHex - Indie Game Dev Profile
+# PiRadHex 
 
-Welcome to PiRadHex, a small indie developer team passionate about creating immersive gaming experiences using Unity.
+**PiRadHex** `/pɪrɑdɛks/` is a small indie developer team passionate about creating immersive gaming experiences using Unity.
 
 ### The Team
 + [MohammadMahdi Abdolhosseini](https://github.com/MohammadMahdi-Abdolhosseini)
